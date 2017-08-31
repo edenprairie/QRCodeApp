@@ -1,0 +1,15 @@
+C:\Users\U011755\documents\visual studio 2015\Projects\BarcodeScanConsoleApp\ZXingNetBarCodeApp\bin\Debug\ZXingNetBarCodeApp.exe.config
+C:\Users\U011755\documents\visual studio 2015\Projects\BarcodeScanConsoleApp\ZXingNetBarCodeApp\bin\Debug\ZXingNetBarCodeApp.exe
+C:\Users\U011755\documents\visual studio 2015\Projects\BarcodeScanConsoleApp\ZXingNetBarCodeApp\bin\Debug\ZXingNetBarCodeApp.pdb
+C:\Users\U011755\documents\visual studio 2015\Projects\BarcodeScanConsoleApp\ZXingNetBarCodeApp\obj\Debug\ZXingNetBarCodeApp.csprojResolveAssemblyReference.cache
+C:\Users\U011755\documents\visual studio 2015\Projects\BarcodeScanConsoleApp\ZXingNetBarCodeApp\obj\Debug\ZXingNetBarCodeApp.BarCode.resources
+C:\Users\U011755\documents\visual studio 2015\Projects\BarcodeScanConsoleApp\ZXingNetBarCodeApp\obj\Debug\ZXingNetBarCodeApp.Properties.Resources.resources
+C:\Users\U011755\documents\visual studio 2015\Projects\BarcodeScanConsoleApp\ZXingNetBarCodeApp\obj\Debug\ZXingNetBarCodeApp.csproj.GenerateResource.Cache
+C:\Users\U011755\documents\visual studio 2015\Projects\BarcodeScanConsoleApp\ZXingNetBarCodeApp\obj\Debug\ZXingNetBarCodeApp.exe
+C:\Users\U011755\documents\visual studio 2015\Projects\BarcodeScanConsoleApp\ZXingNetBarCodeApp\obj\Debug\ZXingNetBarCodeApp.pdb
+C:\Users\U011755\documents\visual studio 2015\Projects\BarcodeScanConsoleApp\ZXingNetBarCodeApp\bin\Debug\zxing.dll
+C:\Users\U011755\documents\visual studio 2015\Projects\BarcodeScanConsoleApp\ZXingNetBarCodeApp\bin\Debug\zxing.presentation.dll
+C:\Users\U011755\documents\visual studio 2015\Projects\BarcodeScanConsoleApp\ZXingNetBarCodeApp\bin\Debug\zxing.pdb
+C:\Users\U011755\documents\visual studio 2015\Projects\BarcodeScanConsoleApp\ZXingNetBarCodeApp\bin\Debug\zxing.xml
+C:\Users\U011755\documents\visual studio 2015\Projects\BarcodeScanConsoleApp\ZXingNetBarCodeApp\bin\Debug\zxing.presentation.pdb
+C:\Users\U011755\documents\visual studio 2015\Projects\BarcodeScanConsoleApp\ZXingNetBarCodeApp\bin\Debug\zxing.presentation.xml

@@ -1,0 +1,12 @@
+c:\users\u011755\documents\visual studio 2015\Projects\BarcodeScanConsoleApp\BarcodeScanConsoleApp\bin\Debug\BarcodeScanConsoleApp.exe.config
+c:\users\u011755\documents\visual studio 2015\Projects\BarcodeScanConsoleApp\BarcodeScanConsoleApp\bin\Debug\BarcodeScanConsoleApp.exe
+c:\users\u011755\documents\visual studio 2015\Projects\BarcodeScanConsoleApp\BarcodeScanConsoleApp\bin\Debug\BarcodeScanConsoleApp.pdb
+c:\users\u011755\documents\visual studio 2015\Projects\BarcodeScanConsoleApp\BarcodeScanConsoleApp\bin\Debug\zxing.dll
+c:\users\u011755\documents\visual studio 2015\Projects\BarcodeScanConsoleApp\BarcodeScanConsoleApp\bin\Debug\zxing.pdb
+c:\users\u011755\documents\visual studio 2015\Projects\BarcodeScanConsoleApp\BarcodeScanConsoleApp\bin\Debug\zxing.xml
+c:\users\u011755\documents\visual studio 2015\Projects\BarcodeScanConsoleApp\BarcodeScanConsoleApp\obj\Debug\BarcodeScanConsoleApp.exe
+c:\users\u011755\documents\visual studio 2015\Projects\BarcodeScanConsoleApp\BarcodeScanConsoleApp\obj\Debug\BarcodeScanConsoleApp.pdb
+c:\users\u011755\documents\visual studio 2015\Projects\BarcodeScanConsoleApp\BarcodeScanConsoleApp\obj\Debug\BarcodeScanConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\U011755\documents\visual studio 2015\Projects\BarcodeScanConsoleApp\BarcodeScanConsoleApp\bin\Debug\zxing.presentation.dll
+C:\Users\U011755\documents\visual studio 2015\Projects\BarcodeScanConsoleApp\BarcodeScanConsoleApp\bin\Debug\zxing.presentation.pdb
+C:\Users\U011755\documents\visual studio 2015\Projects\BarcodeScanConsoleApp\BarcodeScanConsoleApp\bin\Debug\zxing.presentation.xml

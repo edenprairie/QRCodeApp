@@ -10,3 +10,15 @@ c:\users\u011755\documents\visual studio 2015\Projects\BarcodeScanConsoleApp\Bar
 C:\Users\U011755\documents\visual studio 2015\Projects\BarcodeScanConsoleApp\BarcodeScanConsoleApp\bin\Debug\zxing.presentation.dll
 C:\Users\U011755\documents\visual studio 2015\Projects\BarcodeScanConsoleApp\BarcodeScanConsoleApp\bin\Debug\zxing.presentation.pdb
 C:\Users\U011755\documents\visual studio 2015\Projects\BarcodeScanConsoleApp\BarcodeScanConsoleApp\bin\Debug\zxing.presentation.xml
+C:\Code\Github\QRCodeApp\BarcodeScanConsoleApp\bin\Debug\BarcodeScanConsoleApp.exe.config
+C:\Code\Github\QRCodeApp\BarcodeScanConsoleApp\bin\Debug\BarcodeScanConsoleApp.exe
+C:\Code\Github\QRCodeApp\BarcodeScanConsoleApp\bin\Debug\BarcodeScanConsoleApp.pdb
+C:\Code\Github\QRCodeApp\BarcodeScanConsoleApp\bin\Debug\zxing.dll
+C:\Code\Github\QRCodeApp\BarcodeScanConsoleApp\bin\Debug\zxing.presentation.dll
+C:\Code\Github\QRCodeApp\BarcodeScanConsoleApp\bin\Debug\zxing.pdb
+C:\Code\Github\QRCodeApp\BarcodeScanConsoleApp\bin\Debug\zxing.xml
+C:\Code\Github\QRCodeApp\BarcodeScanConsoleApp\bin\Debug\zxing.presentation.pdb
+C:\Code\Github\QRCodeApp\BarcodeScanConsoleApp\bin\Debug\zxing.presentation.xml
+C:\Code\Github\QRCodeApp\BarcodeScanConsoleApp\obj\Debug\BarcodeScanConsoleApp.csproj.CopyComplete
+C:\Code\Github\QRCodeApp\BarcodeScanConsoleApp\obj\Debug\BarcodeScanConsoleApp.exe
+C:\Code\Github\QRCodeApp\BarcodeScanConsoleApp\obj\Debug\BarcodeScanConsoleApp.pdb

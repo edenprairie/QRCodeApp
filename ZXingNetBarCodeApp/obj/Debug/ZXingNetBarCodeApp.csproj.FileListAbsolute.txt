@@ -13,3 +13,18 @@ C:\Users\U011755\documents\visual studio 2015\Projects\BarcodeScanConsoleApp\ZXi
 C:\Users\U011755\documents\visual studio 2015\Projects\BarcodeScanConsoleApp\ZXingNetBarCodeApp\bin\Debug\zxing.xml
 C:\Users\U011755\documents\visual studio 2015\Projects\BarcodeScanConsoleApp\ZXingNetBarCodeApp\bin\Debug\zxing.presentation.pdb
 C:\Users\U011755\documents\visual studio 2015\Projects\BarcodeScanConsoleApp\ZXingNetBarCodeApp\bin\Debug\zxing.presentation.xml
+C:\Code\Github\QRCodeApp\ZXingNetBarCodeApp\bin\Debug\ZXingNetBarCodeApp.exe.config
+C:\Code\Github\QRCodeApp\ZXingNetBarCodeApp\bin\Debug\ZXingNetBarCodeApp.exe
+C:\Code\Github\QRCodeApp\ZXingNetBarCodeApp\bin\Debug\ZXingNetBarCodeApp.pdb
+C:\Code\Github\QRCodeApp\ZXingNetBarCodeApp\bin\Debug\zxing.dll
+C:\Code\Github\QRCodeApp\ZXingNetBarCodeApp\bin\Debug\zxing.presentation.dll
+C:\Code\Github\QRCodeApp\ZXingNetBarCodeApp\bin\Debug\zxing.pdb
+C:\Code\Github\QRCodeApp\ZXingNetBarCodeApp\bin\Debug\zxing.xml
+C:\Code\Github\QRCodeApp\ZXingNetBarCodeApp\bin\Debug\zxing.presentation.pdb
+C:\Code\Github\QRCodeApp\ZXingNetBarCodeApp\bin\Debug\zxing.presentation.xml
+C:\Code\Github\QRCodeApp\ZXingNetBarCodeApp\obj\Debug\ZXingNetBarCodeApp.BarCode.resources
+C:\Code\Github\QRCodeApp\ZXingNetBarCodeApp\obj\Debug\ZXingNetBarCodeApp.Properties.Resources.resources
+C:\Code\Github\QRCodeApp\ZXingNetBarCodeApp\obj\Debug\ZXingNetBarCodeApp.csproj.GenerateResource.cache
+C:\Code\Github\QRCodeApp\ZXingNetBarCodeApp\obj\Debug\ZXingNetBarCodeApp.csproj.CopyComplete
+C:\Code\Github\QRCodeApp\ZXingNetBarCodeApp\obj\Debug\ZXingNetBarCodeApp.exe
+C:\Code\Github\QRCodeApp\ZXingNetBarCodeApp\obj\Debug\ZXingNetBarCodeApp.pdb
